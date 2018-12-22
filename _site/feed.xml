@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-29T13:09:57+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed system,Blockchain,verifiable Market.</title><subtitle>This is tshi' blog , he is mainly focus on distributed system, blockchain, decentralized and verifiable Market.</subtitle><author><name>tshi</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2018/11/29/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-11-29T11:10:53+08:00</published><updated>2018-11-29T11:10:53+08:00</updated><id>http://localhost:4000/jekyll/update/2018/11/29/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/11/29/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-22T22:35:25+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Distributed system,Blockchain,verifiable Market.</title><subtitle>This is tshi' blog , he is mainly focus on distributed system, blockchain, decentralized and verifiable Market.</subtitle><author><name>tshi</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2018/12/22/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-12-22T11:10:53+08:00</published><updated>2018-12-22T11:10:53+08:00</updated><id>http://localhost:4000/jekyll/update/2018/12/22/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/12/22/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -10,4 +10,203 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>tshi</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>tshi</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">我的技术滋养</title><link href="http://localhost:4000/learning/2018/11/29/nourishment-for-my-mind.html" rel="alternate" type="text/html" title="我的技术滋养" /><published>2018-11-29T11:10:53+08:00</published><updated>2018-11-29T11:10:53+08:00</updated><id>http://localhost:4000/learning/2018/11/29/nourishment-for-my-mind</id><content type="html" xml:base="http://localhost:4000/learning/2018/11/29/nourishment-for-my-mind.html">&lt;p&gt;todo.&lt;/p&gt;</content><author><name>tshi</name></author><summary type="html">todo.</summary></entry><entry><title type="html">[译]微服务并不能拯救你破碎的组织文化</title><link href="http://localhost:4000/devops/2018/11/29/Containers-Will-Not-Fix-Your-Broken-Culture.html" rel="alternate" type="text/html" title="[译]微服务并不能拯救你破碎的组织文化" /><published>2018-11-29T11:10:53+08:00</published><updated>2018-11-29T11:10:53+08:00</updated><id>http://localhost:4000/devops/2018/11/29/Containers-Will-Not-Fix-Your-Broken-Culture</id><content type="html" xml:base="http://localhost:4000/devops/2018/11/29/Containers-Will-Not-Fix-Your-Broken-Culture.html">&lt;p&gt;我们常常关注技术上的反模式，而忽略了我们社会结构中也存在类似的问题。通过审视我们与别人的互动，可以找到许多看似技术性难题的解决方案。让我们来谈谈当你和讨厌的人类沟通时，你需要知道的五件事。&lt;/p&gt;
+&lt;h2 id=&quot;1-技术并不是灵丹妙药&quot;&gt;1. 技术并不是灵丹妙药&lt;/h2&gt;
+&lt;p&gt;用著名的思想领袖Jane Austen的话来说，拥有任何产品代码的技术人员都需要一个容器平台，这是一条举世公认的真理。&lt;/p&gt;
+
+&lt;p&gt;难道不是吗？让我们来解构那些不言而喻的假设。别误解我的意思——容器是令人愉快的！但让我们面对现实：我们不可能通过巧妙的使用内核特性来解决给定组织中的绝大多数问题。如果运维团队和开发团队之间发生了争执——也许他们都面临着一些设计不当的DevOps孤岛（竖井），彼此之间莫名其妙地卡住了——那么cgroups 和 namespaces将无法解决这个问题。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;译者注：大型组织内部总是存在一种所谓的“孤岛思维”(silo mentality)，即团队成员通常仅仅关注各自的职能部门或业务单元。如此有限的关注，阻碍了组织的个别部门对整体运营卓越性的促进作用。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;开发人员喜欢将依赖库与应用程序绑定在一起，想象着无限的可移植性。安全部门的人员在为未修补的安全漏洞而哭泣，但是feature开发速度是如此的理想，以至于安全请求被忽略了。平台运维部门开始很高兴，因为他们以为可以升级底层基础设施而不影响任何应用程序的依赖库，直到，他们意识到包含完整操作系统的重量级应用容器根本无法维护，他们才开始感到沮丧。&lt;/p&gt;
+
+&lt;p&gt;但是，你会说，在我们的组织里，我们正确的做事(希望“正确”这个词没有那么糟糕)！我们在运行时注入信任凭证，并在每个环境中运行完全相同的容器。甚至我们只提供静态链接二进制文件的轻量级容器。好的，但是不同测试环境的流量模式和数据可能不太一样。正如一个古老的笑话所说:&lt;/p&gt;
+
+&lt;p&gt;建议：将“staging”重命名为“theory”。“这在理论上行得通，在产品上行不通。”—Najaf Ali&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;译者注：就像这个悖论：In theory, everything works in production.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;在实际生产环境中，没有什么可以替代测试。容器与测试正交，而跨组织沟通对于明确目的和意图至关重要。根据Charity Majors的说法，可观察性（Observability）是真理的一个基本原则。无论在哪里划定责任界限，不当奖励机制的固有冲突将继续表现出来。Andrew Clay Shafer将任何运行系统的状态称为“连续半故障”状态。要维护一个鲁棒的容错系统，良好的工具是必要的(但还不够)。&lt;/p&gt;
+
+&lt;p&gt;译者注：Charity Majors的说法：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Monitoring is for operating software/systems&lt;/li&gt;
+  &lt;li&gt;Instrumentation is for writing software&lt;/li&gt;
+  &lt;li&gt;Observability is for understanding systems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在持续交付中依靠健康检查（health checks）开始是很好的，直到，健康检查充满了欺骗和谎言，因为它说一切都是200 OK，并且所有运行实例都在负载均衡设备中，但是都没有工作。(我的on-call PTSD可能正在显现。)&lt;/p&gt;
+
+&lt;p&gt;在一个日益复杂的世界里，我们如何评价我们朝着容器乌托邦的进展？我们如何知道什么时候该修正航向？上个月似乎总有一些新的，并且必须做的事情，我们该如何应对？我真的必须编排我的容器吗？他们可以即兴演奏爵士乐吗?&lt;/p&gt;
+
+&lt;h2 id=&quot;2-良好的团队互动氛围自己培育因为这个买不到&quot;&gt;2. 良好的团队互动氛围：自己培育！因为这个买不到&lt;/h2&gt;
+
+&lt;p&gt;我们头脑中充满了复杂分布式系统的繁杂组件，而且越来越多的状态使得我们无法适应必然不完整的心智模型。微服务不是由代码行数定义的，而是由单个服务覆盖的范围和广度定义的。而且，微服务并不会阻止你的“两个披萨”团队之间在吃披萨的时候互相交谈。(还有，这些人有多饿，披萨有多大?)，那么多没有回答的问题!&lt;/p&gt;
+
+&lt;p&gt;Adrian Cockcroft指出，单体架构和微服务其实一样复杂，单体架构只是隐藏了复杂性。好了，我们去解构那个可怕的庞然大物（单体架构），然后在微服务世界里摇滚！这将解决所有问题！清晰的抽象和定义良好的接口听起来很棒，直到你意识到你正在将复杂性(以及任何一组权衡中固有的冲突)移动到堆栈的另一部分，Tim Grosscalls称之为“复杂性守恒”。&lt;/p&gt;
+
+&lt;p&gt;把团队拆分成独立小团队并不能改变这样一个事实：团队在任何给定时刻都必须同意界限在哪里。在20世纪60年代，康威（Mel Conway）本可以在今天谈论他的著作——除了标题，因为“How Do Committees Invent?”一文很多人都不知道，而今天，它已经成为一个标题党。&lt;/p&gt;
+
+&lt;p&gt;康威写道，任何组织设计的系统(广义定义)，都会产生一个设计，其结构与组织通信结构一致。这就是康威定律。&lt;/p&gt;
+
+&lt;p&gt;与流行的观点相反，Conway定律并没有说组织结构图必须看起来完全像死亡星球（death-star） 架构图，粗略地检查一下康威定律和死亡星球设计模式，我们就会相信该计划永远不会扩展。无论您围绕热排气口做出什么样的设计决策，再多的工业级任务调度也不能使你的组织免受康威定律的影响。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/20181221/deathstar.png?raw=true&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;译者注：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;软件行业中经验丰富的人将熟悉以下流行的反模式：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;系统是用不可思议的钱秘密建造的。&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;只允许少数人用这个系统，其他人只能看。&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;系统在最低价值目标上展示过一次，但是之后，一些外星人开着蹩脚的飞船过来把它炸烂了。&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;然后资金耗尽，项目废弃。&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;在原始版本的悲剧性失败之后，“2.0”基本上以相同的方式执行，结果基本相同。&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;整个系统的成本远高于它所能实现的任何利润。&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;这也是慢的要命——千年隼号在一光年之外，用一天的时间就超过了它:)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;现在它有一个名字：死亡星球设计模式。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;康威定律中最重要的词是沟通。在这个充分解构的世界里，如何沟通和处理重大变更？那么schema迁移呢，因为状态是真实的？(存储状态的麻烦之处在于你的值通常存在于其中。对于任何可能对记录系统产生不利影响的事情，货币类型都会变得非常敏感）。&lt;/p&gt;
+
+&lt;p&gt;创造性问题解决者有一套方法绕过我们认为不方便的流程。如果你允许在“紧急情况”下更改流程，那么(提示)你将看到非常高的“紧急情况”发生率。&lt;/p&gt;
+
+&lt;p&gt;邓巴数，一个人能与多少人保持稳定的社会关系的认知极限，被证明是有效的。如果在较大的组织中工作，你需要一个小组来进行交流，但是这些小组应该是跨职能的，以消除瓶颈和误解。交流不仅是指与我们人类的声音交谈，或回复没完没了的电子邮件，而是像Consul的gossip协议一样，我们需要在组织中进行交叉对话，以保持沟通顺畅。&lt;/p&gt;
+
+&lt;p&gt;我们都听说过：“我们只通过API进行通信”，但是技术本身并不能解决所有的沟通问题。如果你启动了API的新版本，这是否意味着你将永远弃用旧版本？标记良好的版本控制是否足以满足所有API使用者的当前需求？未来的、冲突的、重叠的需求呢？在某种程度上，你们必须彼此交谈。(还要带上一些披萨！)&lt;/p&gt;
+
+&lt;h2 id=&quot;3-技术是由人组成的&quot;&gt;3. 技术是由人组成的&lt;/h2&gt;
+
+&lt;p&gt;技术，就像电影《超世纪谍杀案》，是由人组成的 。&lt;/p&gt;
+
+&lt;p&gt;Andrew Clay Shafer认为90%的技术是部落主义和时尚。工具是重要的，但是人是人类设计的任何复杂系统的组成部分。我们都看到，为了维持业务连续性的必要性，必须进行很高成本的迁移，而这些迁移都出了问题，持续数年的直接迁移（lift-and-shift）项目只完成了部分目标，而“DevOps计划”的持续时间仅够某个人完成升职副总裁。仔细研究驱动这些决策的动机，即使通过重构观察结果，通常可以揭示这些次优决策的可能成因。&lt;/p&gt;
+
+&lt;p&gt;没有人使用shell脚本编辑简历。我敢打赌，所有写过的janky bash都是为了解决一个真正的问题。当我们开始变得更花哨时，往往会有比“把事情做好”更不纯粹的动机，即使没有，意图本身也无法创建可维护的软件。在技术的炒作周期中，“幻灭的低谷”是我们所有人梦想与现实相遇时的落脚点。一个IT项目的结果是：不管轮胎着火的速度有多慢，它肯定会燃烧很长一段时间。软件在退役时才“完成”，在那之前，第一天是短暂的，而第二天持续到宇宙热寂。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/20181221/1280px-Gartner_Hype_Cycle.svg.png?raw=true&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;译者注：技术炒作周期，我们倾向于过高估计技术在短期内的影响，并低估其长期影响。幻灭的低谷：Trough of Disillusionment。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Simon Wardley的《拓荒者、定居者、城市规划者》就是一个很好的心智模型。虽然概念验证可以“完成”足够好并交付，但是可维护则需要更长的时间，并且在生产环境中正运行着一个正在进行的项目。熵持续增加，正如热力学第二定律所解释的那样。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/20181221/Pioneers.png?raw=true&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;译者注：&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;拓荒者  是非常聪明的人。他们能够探索未被发现的概念，未知的土地。但他们失败了很多次，创造的东西有一半时间不能正常工作。他们有很多“疯狂”的想法。他们建造了第一个电源（Parthian Battery，400AD）和第一台数字计算机（Z3,1943）。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;定居者 是才华横溢的人。他们可以将半烘焙的东西变成对更多观众有用的东西。他们建立信任。他们建立了理解。它们使可能的未来真正发生。他们将原型转变为产品，使其可制造，倾听客户并使其盈利。他们建造了第一批计算机产品（例如IBM 650及更高版本），第一台发电机（Hippolyte Pixii，西门子发电机）。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;城市规划者 是非常出色的人。他们能够利用规模经济来获取某些东西并将其工业化。他们想方设法让事情更快，更好，更小，更有效，更经济，更好。他们采取存在的东西，并将其变成商品或公用事业（例如与电力，爱迪生，特斯拉和西屋公司）。他们是我们赖以生存的工业巨头。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;你想要的是每个角色中的杰出人物。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;显然，努力迭代IT改进很重要，但它不是最终状态和目标。我们都参加过这样的会议，人们不是在倾听，而是在等待轮到他们发言。正如Astrid Atkinson所说，软件是由情感组成的，我们需要考虑我们对彼此的影响。庆祝通过DevOps认证就像庆祝从幼儿园毕业一样。“恭喜你！你学会了不吃蜡笔，还学会了和其他孩子好好玩耍！”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;译者注：Astrid Atkinson还说道：In a place where everyone is basically competent, feelings are all that’s left.在一个人人都能胜任的地方，剩下的就只有情感了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这是否意味着DevOps没有兑现通过合作而提高效率的承诺？一点也不。与DORA (DevOps Research and Assessment)的专业人员交流：当我们将IT改进作为中心任务时，可测量的影响就会显现出来。我们买不到DevOps，尽管生态系统中的一些人会承诺某个特定工具会提供DevOps。我们必须生活在DevOps中，向更好的方向改变是我们每天的选择，是通过倾听和共情的行动做出的选择。工具可以提供帮助，也确实有用，但它们不能让我们关切更多。&lt;/p&gt;
+
+&lt;h2 id=&quot;4-好围栏成就好邻居&quot;&gt;4. 好围栏成就好邻居&lt;/h2&gt;
+
+&lt;p&gt;边界对象和抽象提供了所需的结构。容器是很好的边界对象，但它们并没有消除Dev隐喻(真实)和Ops隐喻(真实)之间的有限空间。当你实现微服务时，多微才是微服务？即使一个定义良好的微服务，它可以很好地完成一件事(在某种程度上)，一个好的准则是微服务的健康端点是否能够明确地回答这个问题。如果向这个健康端点发送询问消息：“Is this working?”，得到的回答是：“Wellllll…,”,说明这个微服务还不够微。&lt;/p&gt;
+
+&lt;p&gt;决定什么是你的，什么是他们的，是兄弟姐妹之间良好关系的基础。在Eric Brewer的CAP定理中，在一致性、可用性和分区三个属性中，你可以选择包含分区的任意两个。正如分布式系统专家Caitie McCaffrey所言，分布式系统就是“物理和数学”。在一个包含多个时区的分布式系统中，分区是不可避免地，而等待10个小时，为了等待总部醒来并做出决定，这对任何人来说都不乐意。但是去中心化决策意味着将权力分配给边缘节点的人们(有时很难说服)。&lt;/p&gt;
+
+&lt;p&gt;容器赋予开发人员的选择权利。在别人的命令和你确信自己需要的东西之间，总是存在着一种张力。对工具和架构进行深思熟虑，这样做出的决策可能会有所帮助，可以将我们从那些没有给我们带来明显好处的决策中解放出来。容器化可以帮助定义工具或项目的范围和目标，将系统解构到人类认知可以理解的规模，从而让我们理解系统的复杂性。&lt;/p&gt;
+
+&lt;p&gt;重复构建可以做到关注点分离。我们希望这是有效的，但又会不引入不必要的障碍。众所周知，“混乱之墙”是真实存在的，它建立在这样一种紧张关系上：一方面有动力推动变革，另一方面又想获得稳定的回报。值得花时间迭代的是：构建正确的抽象使得团队能够独立运转。(而且，没有人能够一开始就做到正确，因为“正确”会随着时间的推移而演进出来的)。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/20181221/WallOfConfusion.png?raw=true&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我们希望在组织的工作约束条件下，赋予人们尽可能多的代理权。要确定适合组织的约束，需要与团队沟通。采用TCP模式而不是UDP模式，你需要SYN/ACK去理解其他人真正想要什么。非暴力沟通：即重述你所听到的，是检视与人沟通的有效方式。（ps：技术人员特别欣赏这种逻辑！）&lt;/p&gt;
+
+&lt;h2 id=&quot;5--避免悲伤即服务&quot;&gt;5.  避免“悲伤即服务”&lt;/h2&gt;
+
+&lt;p&gt;后见之明的优点是，我们可以回头看看并识别拐点。当下你很难看到未来的变化，但是很快你需要运维自己的数据中心，你的货币单位也将是虚拟机。我们周围的嬉皮士会说微服务已经过时了，并向你推销无服务(serverless，即不能ssh进入的服务器），但是我们在这里讨论的是企业采购的实际情况，企业正在认真对待容器技术。应用容器集群更有利于工作负载布局的利用率和灵活性，而容器化抽象有助于更好的可移植性。这也同样适用于那些面向公共云的组织。&lt;/p&gt;
+
+&lt;p&gt;W. Edwards Deming是质量控制领域的领军人物，他说：“变革不是必须的，生存也不是注定的”。（译者注：也就是说，任何一个组织，可以不做任何变革，但其生存也就得不到保障。换句话说，组织要保证能生存，就必须准备做出变革。）变革是困难的，不变革则更糟糕。工具是必不可少的，但需要更加关注的是：如何实现工具以及如何在组织中培养文化和实践。事实证明，编写一个马尔可夫机器人来解析Hacker News的头版并不是必须的，而你必须立即将所有东西投入到生产中!
+&lt;img src=&quot;https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/20181221/DEMING.jpg?raw=true&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;无论你是刚刚开始实现技术升级和组织变革，还是已经实施微服务并期待它的美好前景，都值得考虑我们行为的why和how，而不仅仅是what。如果遗留系统不重要，你可以关掉它。但你的客户和现金流都在这些遗留系统上。赞美激动人心的另起炉灶的“绿地项目”固然很好，但现实是，双模态IT框架是一个谎言。让一些人必须无限期地停留在“悲伤”模式中，而另一些人却在“兴奋”模式中突飞猛进，这是可笑的。变化是一个连续的过程，当然，任何改变都不是瞬时发生的。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/20181221/bimodalslide1.png?raw=true&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;译者注：Gartner Research的双模态IT框架认识到传统的开发实践已不再适用于企业应用程序需求不断增长的组织。相反，双模态IT战略需要两条平行的轨道，支持数字创新优先级的快速应用程序开发，以及现有的应用程序维护和运营稳定项目。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Greenfield Projects 相对于 Brownfield Projects而言。绿地项目不受先前项目的限制，棕地项目是指在先前项目之上的修改和升级。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;当我们分担责任并有代理权限时，当我们克服习得的无助而积极倾听时，我们就能成功。不要做一个命名管道，你不是“键盘即服务”。假如我们都能阅读代码，那么在提交消息中添加修改细节可能比很快过时的注释有用得多。告诉未来：你为什么要做那件事。不然他们可以阅读，但不知道你想要什么。口口相传就像从不把状态写到磁盘上，而是写到这内存缓冲区中。没有流程图，没有检查清单，也没有交付清单，而这些会让一切变得更好。正如电影《公主新娘》告诉我们的那样：“如果有人说的不同，就在显示其他别的”。每一个组织都有“自己做事的方式”，因为流程就是过去的失败在组织身上结下的伤疤。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/20181221/xinniang.png?raw=true&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;译者注：电影《公主新娘》：Anyone who says differently is selling something。如果一个人前言不搭后语，就一定是葫芦里有药要卖。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;800个单位的DevOps容器交付，其中600个交付到兴奋模式下的人，而另外200个交付到悲伤模式下的人， 但是在悲伤模式下的人并不触碰这200个DevOps单元。DevOps是你所做的事情，而不是别人为你做的事情，尽管使用当今最出色的工具。把事情做的更好是我们共同做出的决定。&lt;/p&gt;
+
+&lt;p&gt;工具是必要的，但并不足够。为了建设一个我们共同生活的未来，我们必须共同努力。&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>tshi</name></author><summary type="html">我们常常关注技术上的反模式，而忽略了我们社会结构中也存在类似的问题。通过审视我们与别人的互动，可以找到许多看似技术性难题的解决方案。让我们来谈谈当你和讨厌的人类沟通时，你需要知道的五件事。 1. 技术并不是灵丹妙药 用著名的思想领袖Jane Austen的话来说，拥有任何产品代码的技术人员都需要一个容器平台，这是一条举世公认的真理。</summary></entry></feed>
