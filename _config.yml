@@ -23,7 +23,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TaoshengShi
 github_username:  stone-note
 rss: rss
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 # Build settings
 markdown: kramdown
 theme: minima
