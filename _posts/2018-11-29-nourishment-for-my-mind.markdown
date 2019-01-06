@@ -25,6 +25,9 @@ categories: learning
 + https://bridgetkromhout.com/
 + https://blog.jessfraz.com/
 
++ https://www.schneier.com/
+
+
 ## 一些文章
 + http://melconway.com/Home/Committees_Paper.html
 + http://www.melconway.com/Home/Conways_Law.html
@@ -40,3 +43,22 @@ categories: learning
 
 
 + http://www.hbrchina.org/2018-09-29/6480.html
+
+## 数学
+
++ http://www.acadiau.ca/~pranjan/links/journal_ranking.pdf
++ http://www.zjujournals.com/CN/qkw/home.shtml
++ http://www.math.zju.edu.cn/
++ http://www.actamath.com/Jwk_sxxb_cn/CN/volumn/home.shtml
++ http://www.scichina.com/
++ http://www.amjcu.zju.edu.cn/amjcua/
++ http://www.applmath.com.cn/CN/volumn/home.shtml
++ http://sltj.chinajournal.net.cn/WKB2/WebPublication/index.aspx?mid=SLTJ
++ http://www.tjyjc.com/
++ http://www.erj.cn/cn/default.aspx
++ 国内暂时没有看到专门的统计的权威期刊，学科评审只列了经济研究
+外文期刊中的四大天王 jrssb aos jasa biometrika
+以及和四大天王并驾齐驱的 joe
+这上面的五大期刊应该是统计学最为权威的期刊
+https://www.zhihu.com/question/35469777
+http://blog.sciencenet.cn/blog-84348-686300.html
