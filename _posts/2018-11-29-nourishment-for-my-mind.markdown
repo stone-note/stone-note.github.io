@@ -62,3 +62,23 @@ categories: learning
 这上面的五大期刊应该是统计学最为权威的期刊
 https://www.zhihu.com/question/35469777
 http://blog.sciencenet.cn/blog-84348-686300.html
+
+
+1. Tao Feng:
+
+Finite flag-transitive affine planes with a solvable automorphism group. J. Comb. Theory, Ser. A 152: 225-254 (2017)
+
+2. Tao Feng, Koji Momihara, Qing Xiang:
+A family of m-ovoids of parabolic quadrics. J. Comb. Theory, Ser. A 140: 97-111(2016)
+
+3. Tao Feng:
+A Characterization of Two-Weight Projective Cyclic Codes. IEEE Trans. Information Theory 61(1): 66-71 (2015)
+
+4. Tao Feng, Koji Momihara, Qing Xiang:
+Cameron-Liebler line classes with parameter x=(q2-1)/2. J. Comb. Theory, Ser. A133: 307-338 (2015)
+
+5. Tao Feng, Koji Momihara:
+Evaluation of the Weight Distribution of a Class of Cyclic Codes Based on Index 2 Gauss Sums. IEEE Trans. Information Theory 59(9): 5980-5984 (2013)
+
+6. Tao Feng, Koji Momihara:
+Three-class association schemes from cyclotomy. J. Comb. Theory, Ser. A 120(6): 1202-1215 (2013)
