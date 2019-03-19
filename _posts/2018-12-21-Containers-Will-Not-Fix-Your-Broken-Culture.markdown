@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[译]微服务并不能拯救你破碎的组织文化"
+title:  "微服务并不能拯救你破碎的组织文化"
 date:   2018-11-29 11:10:53 +0800
 categories: DevOps
 ---
