@@ -10,7 +10,7 @@ categories: learning
 
 回顾行业过去一年来的“区块链+”趋势，很多团队“为赋新词强说愁”，试图用区块链来解决所有行业的问题。一个个区块链创业公司倒下之后，都把责任推给寒冬大环境。区块链能做什么、不能做什么？ 去年底央行工作论文已经说得很清楚。
 
-![](../_pictures/articles/%E5%A4%A7%E7%8E%AF%E5%A2%83.jpg)
+![](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/articles/%E5%A4%A7%E7%8E%AF%E5%A2%83.jpg?raw=true)
 
 如果转变认知，不是把已有基础设施能力和行业能力加到区块链，而是把区块链加到已有的基础设施和行业中，或许可以另辟蹊径。例如，bloxroute实验室的《可验证分发网络：区块链扩容终极解决方案》 ，把可验证中立引入到CDN网络中，解决区块链p2p网络分发的根本问题。 再例如，本文要介绍的《Veritas:可验证云数据库和表设计》。
 
@@ -20,14 +20,13 @@ Veritas是微软研究院和德国慕尼黑理工大学合作的一篇论文，�
 
 经济依赖于协作和交互，共享的数据内含经济价值。常见的数据共享架构如图1所示，公司A和B通过Web Service交换数据。但是这样的架构如何协调共享数据中发生的争端？当发生争端时，如何对共享数据和操作日志进行审计？
 
-![](../_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%931.png)
+![](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%931.png?raw=true)
 > 图1 ：web service
 
 区块链可以作为一个审计组件和共享组件服务于上面的数据共享架构，如图2所示，公司A和B都有自己本地的数据库，然后通过第三方实体（区块链）来进行交易，区块链提供交易的全序审计和记录的不可更改。这样的设计可能是一种进步，也可能是一种倒退，因为区块链既赋予了一些能力，也带来了一些问题。这些问题主要表现在应用程序需要重写，数据操作的原语不同，以及区块链性能低下。这也是整个行业目前面临的窘境：为了拥抱区块链，我们必须放弃在数据管理系统中几十年来的研究成果；一些初创公司为了向区块链中增加数据库系统的能力，至少还需要数年或者数十年的努力。区块链社区已经意识到区块链现有技术和现代数据库能力之间的巨大鸿沟。
 
-![](../_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%932.png)
+![](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%932.png?raw=true)
 > 图2 ：基于区块链的数据共享
-
 
 ## 2	Veritas的抽象
 Veritas是如何跨越这个鸿沟呢？简单来说，Veritas引入了两个新的抽象。
@@ -42,12 +41,12 @@ Veritas通过将区块链数据库的概念和可验证表的概念放在一起�
 
 Veritas抽象概念背后有哪些实现细节呢？图2的架构依赖分布式事务和中间件来处理多个系统，这给开发者和运维人员带来极大负担。因此，引入共享可验证表为用户提供无缝体验和免信任协作。图3展示了共享可验证表集成到区块链的架构示意。
 
-![](../_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%933.png)
+![](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%933.png?raw=true)
 > 图3 ：可验证区块链数据库
 
 图4显示了公司A和B如何使用共享可验证表进行协作。A将所有小部件订单写入其本地数据库中的共享订单表。A可以像其他表一样更新和查询这个表，没有排队延迟。并且A可以跨越共享表和本地表编写SQL事务。同时，这个表的同一个实例对B也是可见的，B对共享可验证表具有与A相同的功能。此外，数据库中所有共享表的更新都被写入一个防篡改和可审计的日志，该日志可以实现为区块链。更准确地说，共享表和防篡改日志之间存在N:1关系。A、B和任何可以访问日志的审计人员都可以查看和审查日志。审计人员可以证明A现在是否下了订单，以及下单是否发生在最近一次的价格变动之前。同样，B可以将其所有的价格变化发布到一个共享可验证的报价表中，这个表对A也是可见的。
 
-![](../_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%934.png)
+![](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%934.png?raw=true)
 > 图4 ：可验证表
 
 ## 4	可验证数据库设计
@@ -55,7 +54,7 @@ Veritas抽象概念背后有哪些实现细节呢？图2的架构依赖分布式
 
 图5显示了向可验证数据库中添加验证者的一种方法。在该架构中，区块链仅用于存储验证者的投票。根据特定的区块链技术，区块链操作的成本和性能各不相同，但是它们总体上是很昂贵的。因此，将区块链操作的数量最小化是有利的。在图5的架构中，验证者可以通过批量处理他们的投票来进一步减少他们向区块链写入的次数。
 
-![](../_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%935.png)
+![](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%935.png?raw=true)
 > 图5 ：验证架构
 
 跨广域网络将可验证数据库的日志拆解到验证者的程序中是昂贵而缓慢的。图5架构的一个变体是利用新兴技术创建可信执行环境(trusted execution environments，TEE)，并将该TEE与可验证数据库集成。
@@ -85,28 +84,28 @@ Veritas采用细粒度验证方法，主要有三个原因：(a)验证的代价�
 
 图6描述了一个包含三个节点的示例场景，分别表示为节点0、节点1和节点2。每个节点都代表其运行一个Veritas数据库的公司，其中包括仅对该公司用户可见的本地表和所有三个公司用户都可见的共享可验证表。每个节点的用户和应用程序以透明的方式向本地表和共享表发出事务，也就是说，用户和应用程序不需要知道其他节点和公司的存在，也不需要知道本地表和共享表之间的区别。每个节点上的数据库系统处理与分布式事务有关的所有问题，保持共享表的副本一致，并使对共享表的所有更新可验证。
 
-![](../_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%936.png)
+![](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%936.png?raw=true)
 > 图6 ：共享可验证表实现架构
 
 涉及到读取和更新共享可验证表的事务，都是全局事务，需要协调。所以Veritas引入了以下两个组件：
 
-并发控制：基于时间戳的并发控制。
+* 并发控制：基于时间戳的并发控制。
 
-日志传播和投票：基于kafka的广播服务将共享表的所有更新传播到所有节点。每个节点都将其投票嵌入到它发送到所有其他节点的日志中。
+* 日志传播和投票：基于kafka的广播服务将共享表的所有更新传播到所有节点。每个节点都将其投票嵌入到它发送到所有其他节点的日志中。
 
 Veritas基于时间戳排序和一个集中式时间戳服务的乐观协议作为并发控制的协议：一旦全局事务接收到(全局)时间戳，它就会在Veritas节点本地投机地(或乐观地)执行。在执行全局事务时，还不知道它是否会成功提交。在Veritas中，事务可以由于并发控制冲突或用户中止而中止，就像在任何其他数据库系统中一样。此外，如果其他Veritas节点没有验证共享表上的事务，则它们在Veritas中可能会失败。
 
 为了执行事务，每个Veritas节点保留两个数据结构：
 
-提交水印，TC表示最高的全局时间戳，节点知道时间戳小于提交成功或终止的所有全局事务。
+1. 提交水印，TC表示最高的全局时间戳，节点知道时间戳小于提交成功或终止的所有全局事务。
 
-所有共享表的所有记录的版本历史。此版本历史记录包含TC之前全局事务提交的每个记录的最新版本，以及时间戳高于TC的乐观事务记录的所有版本。
+2. 所有共享表的所有记录的版本历史。此版本历史记录包含TC之前全局事务提交的每个记录的最新版本，以及时间戳高于TC的乐观事务记录的所有版本。
 
 每个Veritas节点定期将所有涉及到对共享表进行读写的日志记录，以及所有全局事务的事务开始、提交和中止日志记录使用广播服务发送给所有其他Veritas节点，如图6所示。当Veritas节点从另一个节点接收日志记录时，它应用该日志并验证所有提交事务的影响。在应用该日志时，节点使用共享表记录的版本存储检查读/写和写/写冲突。如果节点检测到冲突，它将事务标记为中止，并忽略对共享表副本的所有更新。如果可以验证事务并且没有创建任何冲突，则将事务标记为已提交，并相应地更新共享表的节点副本。
 
 图7描述了每个Veritas节点维护的状态和日志。除了本地(非共享)表之外，每个Veritas节点都保存所有共享表的干净副本。此干净副本包含共享表截止到提交水印时间TC的所有记录的状态。在当前的Veritas原型中，非共享表和干净的共享表保存在一个Redis数据库中。此外，Veritas节点保存乐观交易共享表记录的所有(已知)版本，以便节点还不知道这些事务的命运。此外，每个Veritas节点都保存一个本地日志，其中包含对本地(非共享)表的所有更新，以及对共享表更新的全局日志。在此方案中，(集中式)时间戳服务是系统的一个潜在漏洞，因为它必须是可信的。当然，可以实现不依赖几种服务的分布式事务。
 
-![](../_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%937.png)
+![](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%937.png?raw=true)
 > 图7 ：Veritas节点状态
 
 ## 6	性能评估
@@ -115,17 +114,17 @@ Veritas原型大约有1500行C#代码。评估的重点是探索验证开销作�
 
 图8显示了每个工作负载的吞吐量，因为改变了节点的数量：
 
-![](../_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%938.png)
+![](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%938.png?raw=true)
 > 图8 ，吞吐量：节点变化、数据库大小固定(100KB)
 
 结果有好消息也有坏消息：正如预期的那样，Veritas为分布式并发控制和验证付出大量额外开销（there is a tax for distributed concurrency control and verification in Veritas.）。对于更新密集型(A)，使用分布式并发控制和验证，吞吐量仅略高于一半。使用更复杂的分布式并发控制协议，可能会改进这些结果。然而，图中显示，即使对于只读负载(C)，即目前在Veritas中实现的乐观并发控制方案的最佳情况，开销也是巨大的。然而，图8还显示开销不是灾难性的，即使使用Veritas目前使用的简单方案，每秒也有可能实现数万个事务。
 
 当我们将节点数量固定为4个，并改变数据库大小时，我们可以探索并发控制和验证的相对影响。(较小的数据库大小会导致更多的冲突)。
 
-![](../_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%939.png)
+![](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%939.png?raw=true)
 > 图9，吞吐量：4个节点，不同的数据库大小(记录数量)
 
-![](../_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%9310.png)
+![](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/articles/%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%95%B0%E6%8D%AE%E5%BA%9310.png?raw=true)
 > 图10，提交率：4个节点，不同的数据库大小(记录数量)
 
 这一结果令人鼓舞，因为它表明在Veritas中实现共享表不会产生任何额外的瓶颈。实际上，验证和分布式并发控制是有代价的。但是，使用验证(和分布式信任)的数据库系统的瓶颈与传统数据库系统的瓶颈相同。
@@ -141,4 +140,4 @@ Veritas原型大约有1500行C#代码。评估的重点是探索验证开销作�
 ## 9	后记
 当前用于Web、iOS、OSX、Windows和Android的应用程序由前端和后端组成。后端与数据库交互，是存储数据的地方。前端是用户直观地看到应用程序的地方，即由各种标签和控件组成的界面。
 
-![](../_pictures/articles/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%95%B0%E6%8D%AE%E5%BA%93.png)
+![](https://github.com/stone-note/stone-note.github.io/blob/master/_pictures/articles/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%95%B0%E6%8D%AE%E5%BA%93.png?raw=true)
