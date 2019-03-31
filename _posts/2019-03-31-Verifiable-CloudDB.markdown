@@ -133,7 +133,7 @@ Veritas原型大约有1500行C#代码。评估的重点是探索验证开销作�
 
 区块链项目众多，但能够作为相关工作引用的并不多。公链领域的有 Bitcoin 和 Ethereum ，基于POW共识和全节点验证。联盟链领域的有 Hyperledger 和 Quorum ，基于 PBFT 共识和全节点验证。最近提出来的一些项目：Coco，Ekiden 和 Intel Sawtooth Lake依赖 TEE （例如Intel SGX）来实现私密性和提高性能。在区块链数据库领域，BigchainDB 是一个与Veritas类似的项目，但在架构上差别很大。BigchainDB 更像是一个区块链，使用PBFT取代共识算法，使用MongoDB作为信任基，并把事务和状态复制到所有节点上。Veritas 则允许以中心化的方式保存数据库状态和进行查询处理，并且具备很小的验证者信任基。在产品方面，目前行业内提供类似产品的还有Amazon的QLDB。
 
-## 8	参考文献：
+## 8	参考文献
 
 《Veritas: Shared Verifiable Databases and Tables in the Cloud》
 
